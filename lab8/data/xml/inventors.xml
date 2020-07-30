@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventors>
+  <inventor id="1" name="Albert Einstein" invention="Theory of relativity" patents="10" />
+  <inventor id="2" name="Steve Jobs" invention="iMac G3" patents="155" />
+  <inventor id="3" name="Nicola Tesla" invention="Induction motor" patents="19" />
+  <inventor id="4" name="Stephen Hawking" invention="Black holes" patents="3" />
+  <inventor id="5" name="Wilhelm Rontgen" invention="X-radiation" patents="34" />
+</inventors>
