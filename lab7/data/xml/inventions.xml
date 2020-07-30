@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventions>
+  <invention id="1" invention="Theory of relativity" data="Time and Space" year="1921" />
+  <invention id="2" invention="iMac G3" data="Designed by Apple.Inc" year="1998" />
+  <invention id="3" invention="Induction motor" data="Electricity" year="1887" />
+  <invention id="4" invention="Black holes" data="Great amount of matter" year="1975" />
+  <invention id="5" invention="X-radiation" data="Electromagneic waves" year="1895" />
+</inventions>
